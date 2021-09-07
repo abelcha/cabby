@@ -1,0 +1,9 @@
+Target:
+- Optimise latency between pickups, directing the driver to place that have been in demand at the approximate same date and time in the past
+
+Todos:
+- Fine Tune pickupPoint from date function
+- Use typescript
+- Get pickupPoints from db
+- Center map using user's location
+- Function to go to map point
